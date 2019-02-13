@@ -1,4 +1,4 @@
-/*created by xaobi <704123013@qq.com>*/
+/*created by xaobi*/
 
 import Vue from 'vue'
 import MessageComponent from './message.vue'
